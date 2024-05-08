@@ -1,0 +1,5 @@
+pandas==1.4.2
+dash==2.11.1
+dash-cytoscape==0.3.0
+psycopg2-binary
+requests==2.29.0
